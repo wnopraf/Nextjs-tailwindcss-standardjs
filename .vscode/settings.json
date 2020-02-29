@@ -1,0 +1,10 @@
+{
+  "standard.autoFixOnSave": true,
+  "typescript.format.enable": false,
+  "typescript.reportStyleChecksAsWarnings": false,
+  "prettier.disableLanguages": ["javascript", "javascriptreact"],
+  "javascript.suggestionActions.enabled": false,
+  "javascript.validate.enable": false,
+  "tailwindCSS.emmetCompletions": true,
+  "javascript.format.enable": false
+}
